@@ -1,16 +1,8 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Personal Portfolio 
 
 > https://aum8.github.io
 
-#
-:star: Star me on GitHub — it helps!
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
@@ -29,7 +21,6 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://Aum8.github.io/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
