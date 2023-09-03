@@ -1,4 +1,4 @@
-# Personal Portfolio 
+# Portfolio Website
 
 > https://aum8.github.io
 
@@ -31,15 +31,15 @@
 #### Step 1
 
 - **Option 1**
-    - 🍴 Fork this repo!
+    -  Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine.
+    -  Clone this repo to your local machine.
 
 
 #### Step 2
 
-- **Build your code** 🔨🔨🔨
+- **Build your code** 
 
 #### Step 3
 
